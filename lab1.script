@@ -1,0 +1,15 @@
+Script started on 2016年03月09日 (週三) 10時49分45秒
+]0;F04036188@2015cpp: ~F04036188@2015cpp:~$ whoami;pa[Kwd
+F04036188
+/home/F04036188
+]0;F04036188@2015cpp: ~F04036188@2015cpp:~$ git config-l[K[K -l
+user.name=F04036188
+user.email=river85511@gmail.com
+]0;F04036188@2015cpp: ~F04036188@2015cpp:~$ git co[K[K[K[K[K[Kgit cln[Kone https://gitbu[K[Khub.com/rri[K[Kiver85511/lab1.git [A
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;F04036188@2015cpp: ~F04036188@2015cpp:~$ exit
+
+Script done on 2016年03月09日 (週三) 10時51分24秒
